@@ -1,5 +1,9 @@
 {
   "name": "hyperterm-tab-numbers",
   "description": "move close buttons to the left and add numbers to your hyperterm tabs",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nlf/hyperterm-tab-numbers.git"
+  }
 }
